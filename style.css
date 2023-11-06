@@ -44,7 +44,7 @@ nav{
     --background-image: url(top.jpg);
     text-align: justify;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    display: block;
+    display: inline-block;
 }
  h2{
     display: block;
@@ -81,6 +81,7 @@ h3:hover{
     --background-image: url(bottom.png);
     height: 720px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: inline-block;
 }
 
 .contenidoMid{
